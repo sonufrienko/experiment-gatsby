@@ -1,2 +1,4 @@
-# experiment-gatsby
-Static website with Gatsby, Contentful and Netlify
+![](architecture.svg)
+
+# Static website with Gatsby, Contentful and Netlify
+
